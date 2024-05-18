@@ -2,19 +2,37 @@
 
 <h2>👨‍💻 Software Projects:</h2>
 
-- <b>Hackathon Projects</b>
-  - [Bronco Swap](https://github.com/calvinwlim/Bronco-Swap) <p> (Vue.JS, Firebase, NodeJS, Axios)</p>
+- <b>Hackathon Projects (For Project Demos, check out my <a href="https://devpost.com/rheike">DevPost</a>)</b>
+  - [Bronco Swap - Hack 4 Humanity 2024](https://github.com/calvinwlim/Bronco-Swap) <span>(Made with Vue.JS, Firebase, NodeJS, Axios)</span>
+  - [Capital Insights - INRIX Hack 2023 Winner](https://github.com/RileyHeike/InrixHack2023) <span>(Made with Vue.JS, Puppeteer, Express.JS, INRIX APIs)</span>
+  - [Project Safe Water - Hack 4 Humanity 2023 Finalist](https://github.com/RileyHeike/Hack-4-Humanity-2023) <span>(Made with Python, Flask, HTML/CSS/JS)</span>
 - <b>Computer Labs</b>
   - [CSEN 79 - Advanced Data Structures and Object Oriented Programming](https://github.com/RileyHeike/CSEN-79-Lab)
+  - [CSEN 20 - Embedded Systems]()
 - <b>Other Projects</b>
-  - [Another Project](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Sports Betting Algorithm](https://github.com/RileyHeike/SCQ-Betting-Competition) <span>(Made with Python, Selenium, Pandas, BeautifulSoup)</span>
 
 <h2>💼 Professional Profile:</h2>
 
-[Connect with me on LinkedIn: ][<img align="left" alt="RileyHeike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- Connect with me on LinkedIn:     [<img align="top" alt="RileyHeike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/rileyheike
 
+
+<h2>Personal Interests</h2>
+
+ - 🎵 Music
+   - Current Top Spotify Artists: Dire Straits, Eagles, Elton John, Pink Floyd, Kendrick Lamar, A Tribe Called Quest
+   - Check out my [Spotify Profile](https://open.spotify.com/user/o4zax9vw42tnfmkpspbx9zck8?si=81e92ba109274256)
+ - 🤾‍♂️ Sports
+   - Playing: Basektball, Skiing, Track & Field, Soccer
+   - Watching: Football, Basketball, Soccer, Baseball
+ - 💸 Personal Finance
+   - Current Favorite Stocks: SPGI, GOOGL
+   - All-time top gain: NVDA (431%)
+ - 💭 Philosophy
+   - Metaphysics, Existentialism
+   - A question to ponder: Can we say death causes harm to the individual who dies?
 <!--
 **rileyheike/rileyheike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
