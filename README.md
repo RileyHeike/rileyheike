@@ -1,4 +1,4 @@
-<h1>Hi, I'm Riley! <br/><h3>Student at Santa Clara University</h3>
+<h1>Hi, I'm Riley! <br/><h3>Honors Computer Science and Engineering Student at Santa Clara University</h3>
 
 <h2>👨‍💻 Software Projects:</h2>
 
@@ -10,7 +10,7 @@
   - [CSEN 79 - Advanced Data Structures and Object Oriented Programming](https://github.com/RileyHeike/CSEN-79-Lab)
   - [CSEN 20 - Embedded Systems]()
 - <b>Other Projects</b>
-  - [Sports Betting Algorithm](https://github.com/RileyHeike/SCQ-Betting-Competition) <span>(Made with Python, Selenium, Pandas, BeautifulSoup)</span>
+  - [Sports Betting Algorithm](https://github.com/RileyHeike/SCQ-Betting-Competition/tree/Simple-Trader) <span>(Made with Python, Selenium, Pandas, BeautifulSoup)</span>
 
 <h2>💼 Professional Profile:</h2>
 
