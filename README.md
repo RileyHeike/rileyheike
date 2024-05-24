@@ -8,7 +8,9 @@
   - [Project Safe Water - Hack 4 Humanity 2023 Finalist](https://github.com/RileyHeike/Hack-4-Humanity-2023) <span>(Made with Python, Flask, HTML/CSS/JS)</span>
 - <b>Computer Labs</b>
   - [CSEN 79 - Advanced Data Structures and Object Oriented Programming](https://github.com/RileyHeike/CSEN-79-Lab)
-  - [CSEN 20 - Embedded Systems]()
+  - [CSEN 20 - Embedded Systems](https://github.com/RileyHeike/CSEN-20-Lab)
+  - [CSEN 12 - Data Structures and Algorithms](https://github.com/RileyHeike/CSEN-12-Lab)
+  - [CSEN 11 - Advanced Programming](https://github.com/RileyHeike/CSEN-11-Lab)
 - <b>Other Projects</b>
   - [Sports Betting Algorithm](https://github.com/RileyHeike/SCQ-Betting-Competition/tree/Simple-Trader) <span>(Made with Python, Selenium, Pandas, BeautifulSoup)</span>
 
