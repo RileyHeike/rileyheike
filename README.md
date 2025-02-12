@@ -18,7 +18,7 @@
 
 - Connect with me on LinkedIn:     [<img align="top" alt="RileyHeike | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/rileyheike
+[linkedin]: https://linkedin.com/in/riley-heike
 
 
 <h2>Personal Interests</h2>
