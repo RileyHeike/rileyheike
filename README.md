@@ -24,14 +24,14 @@
 <h2>Personal Interests</h2>
 
  - 🎵 Music
-   - Current Top Spotify Artists: Dire Straits, Eagles, Elton John, Pink Floyd, Kendrick Lamar, A Tribe Called Quest
+   - Current Top Spotify Artists: Dire Straits, Eagles, Pink Floyd, Kendrick Lamar, The Smashing Pumpkins, A Tribe Called Quest, Radiohead
    - Check out my [Spotify Profile](https://open.spotify.com/user/o4zax9vw42tnfmkpspbx9zck8?si=81e92ba109274256)
  - 🤾‍♂️ Sports
    - Playing: Basektball, Skiing, Track & Field, Soccer
    - Watching: Football, Basketball, Soccer, Baseball
  - 💸 Personal Finance
    - Current Favorite Stocks: SPGI, GOOGL
-   - All-time top gain: NVDA (431%)
+   - All-time top gain: PLTR (965%), NVDA (580%)
  - 💭 Philosophy
    - Metaphysics, Existentialism
    - A question to ponder: Can we say death causes harm to the individual who dies?
